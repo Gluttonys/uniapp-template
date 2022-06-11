@@ -1,6 +1,14 @@
 {
-  "name": "uni-preset-vue",
-  "version": "0.0.0",
+  "name": "uniapp-template",
+  "author": "如意虎头鞋",
+  "description": "一个uniapp的开发模板，集成日常所用到的一些插件",
+  "keywords": [
+    "vue3",
+    "typescript",
+    "uniapp",
+    "pinia"
+  ],
+  "version": "0.0.1",
   "scripts": {
     "dev:app": "uni -p app",
     "dev:custom": "uni -p",
